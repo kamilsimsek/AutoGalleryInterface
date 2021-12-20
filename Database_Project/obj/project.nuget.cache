@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NtbfeYmIGy/cIybECLZj2BQnyKG0r1WUu53EyF3aAI6Tv3KDpqz4wftwAryJ62v6+6Bjpv9dv89AnGuBdhvE+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kamil\\OneDrive\\Masaüstü\\Database_Project\\Database_Project\\Database_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamil\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\fontawesome.sharp\\5.15.4\\fontawesome.sharp.5.15.4.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\npgsql\\6.0.1\\npgsql.6.0.1.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\kamil\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
